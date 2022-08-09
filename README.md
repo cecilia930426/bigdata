@@ -1,2 +1,2 @@
 # COMP 558
-comp 558 computer vision assignments
+McGill comp 558 computer vision assignments
